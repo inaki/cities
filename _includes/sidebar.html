@@ -22,7 +22,7 @@
     {% endcomment %}
 
     {% for post in site.posts %}
-        <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ post.title }}</a>
+        <a class="sidebar-nav-item{% if page.url == post.url %} active{% endif %}" href="{{ post.url }}">{{ post.title }}</a>
     {% endfor %}
 
     <!-- <a class="sidebar-nav-item" href="http://spamthe.net">Links</a>
