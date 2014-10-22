@@ -7,6 +7,15 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a>
 
+
+    <!-- Here is the list of cities, which at this moment are called posts -->
+    {% for post in paginator.posts %}
+
+    <a class="sidebar-nav-item" href="{{ post.url }}">{{ post.title }} <br><span class="post-date">{{ post.theme }}</span></a>
+
+    {% endfor %}
+
+
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
@@ -21,14 +30,15 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="http://spamthe.net">Links</a>
+    <!-- <a class="sidebar-nav-item" href="http://spamthe.net">Links</a>
     <a class="sidebar-nav-item" href="{{ site.twitter }}">Twitter</a>
-    <a class="sidebar-nav-item" href="{{ site.github }}">GitHub</a>
+    <a class="sidebar-nav-item" href="{{ site.github }}">GitHub</a> -->
   </nav>
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      &copy; CfA Fellows 2015
+      <!-- {{ site.time | date: '%Y' }}. All rights reserved. -->
     </p>
   </div>
 </div>
