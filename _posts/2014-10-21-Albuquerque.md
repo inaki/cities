@@ -3,6 +3,7 @@ layout: post
 nav: blog
 title: Albuquerque
 theme: economic development
+comments: true
 ---
 
 For my first post, I'd like to talk a little about patterns.
