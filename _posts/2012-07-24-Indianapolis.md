@@ -2,6 +2,7 @@
 layout: post
 nav: blog
 title: Indianapolis
+theme: public safety
 ---
 
 Working on ThemeRoller was a lot of fun and it taught me a lot about client-side styling and user interfaces in general.

@@ -1,7 +1,8 @@
 ---
 layout: post
 nav: blog
-title: "Somerville"
+title: Somerville
+theme: education
 ---
 A couple months ago I got curious about URL shorteners and how they were
 implemented. As I was researching the subject, I realized it might be

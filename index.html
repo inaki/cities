@@ -11,13 +11,13 @@ title: Home
           {{ post.title }}
         </a>
       </h1>
-      <span class="post-date">{{ post.date | date: "%b %e %Y" }}</span>
+      <span class="post-date">{{ post.theme }}</span>
     </div>
 
   {% endfor %}
 </div>
 
-<div class="pagination">
+<!-- <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
   {% else %}
@@ -33,4 +33,4 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-
+ -->
