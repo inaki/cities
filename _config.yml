@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        /post/:title
+
+# Setup
+title:            "CfA Cities 2015"
+description:      "Code for America fellowship cities 2015"
+url:              http://waitforit.com
+baseurl:          "/"
+paginate:         10
+
+author:
+  name:           "Fellows 2015"
+
+# Custom vars
+twitter:        https://twitter.com/fellows2015
+github:         https://github.com/fellows2015
