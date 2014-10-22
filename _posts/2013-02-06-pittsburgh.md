@@ -3,6 +3,7 @@ layout: post
 nav: blog
 title: Pittsburgh
 theme: procurement
+comments: true
 ---
 
 I thought I'd write a quick post about what I used to create this blog.
