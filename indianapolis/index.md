@@ -27,6 +27,9 @@ _Things that fellows would want to know about the city. Ideas from the Google do
 
 ### Data
 
+* _[Wikipedia](http://en.wikipedia.org/wiki/Indianapolis)_
+* _[Indianapolis Metro Police Department](http://www.indy.gov/egov/city/dps/impd/Pages/home.aspx)_
+
 ### News
 
 * ["Mayor Ballard and IMPD to focus on 6 dangerous Indy-area neighborhoods."](http://www.indystar.com/story/news/crime/2014/10/09/mayor-ballard-and-impd-to-focus-on-crime-prevention-in-six-indianapolis-area-neighborhoods/16979317/) _Indianapolis Star._

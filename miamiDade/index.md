@@ -28,12 +28,14 @@ _Ideas from the Google doc:_
 
 _Data APIs and data sources:_
 
-* _Wikipedia_
+* *[Wikipedia](http://en.wikipedia.org/wiki/Miami-Dade_County,_Florida)*
 * _[https://www.data.gov/developers/apis](https://www.data.gov/developers/apis)_
 * _[Developers - US Census Bureau](http://www.census.gov/developers/#)_
 * _[US City Open Data Census](http://us-city.census.okfn.org/)_
 * _[Statistics of US Businesses](http://www.census.gov/econ/susb/)_
 * _[ProPublica Data Store](https://projects.propublica.org/data-store/)_
+* _[Miami-Dade County Open Data](http://www.miamidade.gov/transparency/public-data.asp)_
+* _[Miami-Dade County Dept. of Economic Development](http://www.miamidade.gov/business/economic-development.asp)_
 
 ### News
 

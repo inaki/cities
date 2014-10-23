@@ -28,12 +28,15 @@ _Ideas from the Google doc:_
 
 _Data APIs and data sources:_
 
-* _Wikipedia_
+* *[Wikipedia](http://en.wikipedia.org/wiki/Somerville,_Massachusetts)*
 * _[https://www.data.gov/developers/apis](https://www.data.gov/developers/apis)_
 * _[Developers - US Census Bureau](http://www.census.gov/developers/#)_
 * _[US City Open Data Census](http://us-city.census.okfn.org/)_
 * _[Statistics of US Businesses](http://www.census.gov/econ/susb/)_
 * _[ProPublica Data Store](https://projects.propublica.org/data-store/)_
+* _[City of Somerville Open Data](https://data.somervillema.gov/)_
+* _[Somerville Public Schools](http://www.somerville.k12.ma.us/education/components/scrapbook/default.php?sectionid=1)_
+* _[Somerville Public Schools Twitter Account](https://twitter.com/SvilleSchools)_
 
 ### News
 

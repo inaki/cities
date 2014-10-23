@@ -28,12 +28,13 @@ _Ideas from the Google doc:_
 
 _Data APIs and data sources:_
 
-* _Wikipedia_
+* _[Wikipedia](http://en.wikipedia.org/wiki/Pittsburgh)_
 * _[https://www.data.gov/developers/apis](https://www.data.gov/developers/apis)_
 * _[Developers - US Census Bureau](http://www.census.gov/developers/#)_
 * _[US City Open Data Census](http://us-city.census.okfn.org/)_
 * _[Statistics of US Businesses](http://www.census.gov/econ/susb/)_
 * _[ProPublica Data Store](https://projects.propublica.org/data-store/)_
+* _[City of Pittsburgh Office of Management and Budget](http://pittsburghpa.gov/omb/)_
 
 ### News
 
