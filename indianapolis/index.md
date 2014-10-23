@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Indianapolis
+comments: true
 ---
 
 ### Overview 

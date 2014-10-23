@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Somerville
+comments: true
 ---
 
 ### Overview 

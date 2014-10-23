@@ -1,6 +1,7 @@
 ---
 layout: page
 title: West Sacramento
+comments: true
 ---
 
 ### Overview 

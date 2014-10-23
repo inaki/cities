@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pittsburgh
+comments: true
 ---
 
 ### Overview 

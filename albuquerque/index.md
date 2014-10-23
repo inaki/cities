@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Albuquerque
+comments: true
 ---
 
 ### Overview 

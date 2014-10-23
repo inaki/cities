@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Miami Dade
+comments: true
 ---
 
 ### Overview 

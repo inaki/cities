@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Vallejo
+comments: true
 ---
 
 ### Overview 
