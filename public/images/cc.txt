@@ -14,3 +14,30 @@ description: View from my hotel room looking north from the Hyatt Regency Indian
 flickr url: https://www.flickr.com/photos/chocolatedisco/3440651278
 flickr user: https://www.flickr.com/photos/chocolatedisco/
 license: https://creativecommons.org/licenses/by-nc-nd/2.0/
+
+photo: “Albuquerque Sunrise over the Mountains”
+flickr url: https://www.flickr.com/photos/cobalt/10231050886/in/photostream/
+flickr user: https://www.flickr.com/photos/cobalt/
+license: https://creativecommons.org/licenses/by-nc-sa/2.0/
+
+photo: "Miami Skyline"
+description: "This is a 270 degree panorama of the skyline of Miami. I took this shot from the pool area of our hotel. It’s a 27 single shot HDR Panorama. View large on black"
+flickr url: https://www.flickr.com/photos/gaensler/5160960625
+flickr user: https://www.flickr.com/photos/gaensler/
+license: https://creativecommons.org/licenses/by-nc-sa/2.0/
+
+photo: "Downtown Pittsburgh at Night from Duqeusne Incline"
+flickr url: https://www.flickr.com/photos/matthewpaulson/4548757180
+flickr user: https://www.flickr.com/photos/matthewpaulson/
+license: https://creativecommons.org/licenses/by-nc-nd/2.0/
+
+photo: "After the Storm HDR 1"
+description: "The Ziggurat in West Sacramento with the Capital Mall cluster on the other side of the currently very high Sacramento River. Most shots taken from West Sac will be lucky people who got on the balconies of the Ziggurat, a state office building. I prefer the adjacent parking garage."
+flickr url: https://www.flickr.com/photos/cmkeiner/5557630150/in/photostream/
+flickr user: https://www.flickr.com/photos/cmkeiner/
+license: https://creativecommons.org/licenses/by-nc-nd/2.0/
+
+photo: "Uptown Main Street Richmond"
+flickr url: https://www.flickr.com/photos/andrewbain/525669933
+flickr user: https://www.flickr.com/photos/andrewbain/
+license: https://creativecommons.org/licenses/by/2.0/
