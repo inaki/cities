@@ -28,12 +28,15 @@ _Ideas from the Google doc:_
 
 _Data APIs and data sources:_
 
-* _Wikipedia_
+* *[Wikipedia](http://en.wikipedia.org/wiki/Albuquerque,_New_Mexico)*
 * _[https://www.data.gov/developers/apis](https://www.data.gov/developers/apis)_
 * _[Developers - US Census Bureau](http://www.census.gov/developers/#)_
 * _[US City Open Data Census](http://us-city.census.okfn.org/)_
 * _[Statistics of US Businesses](http://www.census.gov/econ/susb/)_
 * _[ProPublica Data Store](https://projects.propublica.org/data-store/)_
+* _[City of Albuquerque Data](http://www.cabq.gov/abq-data/)_
+* _[City of Albuquerque Data Twitter Account](https://twitter.com/ABQData)_
+* _[City of Albuquerque Dept. of Economic Development](http://www.cabq.gov/economicdevelopment)_
 
 ### News
 
