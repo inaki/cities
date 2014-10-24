@@ -4,6 +4,11 @@ title: Miami Dade
 comments: true
 ---
 
+<img src="../public/images/miami.jpg" alt="Miami, FL">
+<small>
+_[Photo](https://www.flickr.com/photos/gaensler/5160960625) taken by Flickr user [gaensler](https://www.flickr.com/photos/gaensler/), licensed under Creative Commons._
+</small>
+
 ### Overview 
 
 _Things that fellows would want to know about the city. Ideas from the Google doc:_

@@ -4,6 +4,12 @@ title: Somerville
 comments: true
 ---
 
+<img src="../public/images/somerville.jpg" alt="Somerville, MA">
+<small>
+_[Photo](https://www.flickr.com/photos/sandcastlematt/1076472561/) taken by Flickr user [sandcastlematt](https://www.flickr.com/photos/sandcastlematt/), licensed under Creative Commons._
+</small>
+
+
 ### Overview 
 
 _Things that fellows would want to know about the city. Ideas from the Google doc:_

@@ -4,6 +4,9 @@ title: Vallejo
 comments: true
 ---
 
+<img src="../public/images/vallejo.jpg" alt="Vallejo, CA">
+<small>Photo by Flickr user, licensed under Creative Commons.</small>
+
 ### Overview 
 
 _Things that fellows would want to know about the city. Ideas from the Google doc:_
