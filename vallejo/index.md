@@ -21,6 +21,8 @@ _[Photo](https://www.flickr.com/photos/usfsregion5/5809142932) by Flickr user [u
 ### News
 
 * [KQED: "Questions Surround Surge in Vallejo Police Shootings"](http://ww2.kqed.org/news/vallejo-police-officer-named-in-three-fatal-shootings)
+* [Vallejo Times-Herald: "Deputies launch night patrols to bolster shrunken city force"](http://www.timesheraldonline.com/ci_14416120)
+* [Vallejo Times-Herald: "Brenda J. Crawford: A time for leadership"](http://www.timesheraldonline.com/letterstotheeditor/ci_26785582/brenda-j-crawford-time-leadership)
 * [KQED: Vallejo](http://ww2.kqed.org/news/tag/vallejo)
 
 ### Conversation
