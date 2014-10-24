@@ -1,0 +1,16 @@
+photo: "somerville puddle just after sunset"
+flickr url: https://www.flickr.com/photos/sandcastlematt/1076472561/
+flickr user: https://www.flickr.com/photos/sandcastlematt/
+license: https://creativecommons.org/licenses/by-nc/2.0/
+
+photo: "Mother with toddler at a vegetable bed"
+description: "Mother with toddler at a vegetable bed at the Grand Opening celebration of the Vallejo People's Garden on April 30, 2011"
+flickr url: https://www.flickr.com/photos/usfsregion5/5809142932
+flickr user: https://www.flickr.com/photos/usfsregion5/
+license: https://creativecommons.org/licenses/by/2.0/
+
+photo: "Downtown Indianapolis"
+description: View from my hotel room looking north from the Hyatt Regency Indianapolis.
+flickr url: https://www.flickr.com/photos/chocolatedisco/3440651278
+flickr user: https://www.flickr.com/photos/chocolatedisco/
+license: https://creativecommons.org/licenses/by-nc-nd/2.0/
