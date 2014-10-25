@@ -4,40 +4,25 @@ title: Vallejo
 comments: true
 ---
 
+<img src="../public/images/vallejo.jpg" alt="Vallejo, CA">
+<small>
+_[Photo](https://www.flickr.com/photos/usfsregion5/5809142932) by Flickr user [usfsregion5](https://www.flickr.com/photos/usfsregion5/), licensed under Creative Commons._
+</small>
+
 ### Overview 
 
-_Things that fellows would want to know about the city. Ideas from the Google doc:_
+### Links
 
-* _Weather, Demographics, Urbanicity_
-* _Is there a history of civic engagement? Does the city already have a Brigade?_
-* _Community? Transportation (need a car)? Cost of living_
-* _Is there a high income-disparity? If so, why/how?_
-* _History: Is there a history of suspicion of local government?_
-* _Geography. Industry. Blue collar? Hospitality? Creatives moving in? Is it “a city in transition?”_
-
-
-### Allies
-
-_Ideas from the Google doc:_
-
-* _Key city gov departments related to focus topic._
-* _Community organizations currently active in focus topic, especially groups that can provide guidance and feedback._
-* _Local CfA brigade, civic hackers + former CfA fellows for guidance, feedback, getting up to speed._
+* [Vallejo Police Department website](http://www.ci.vallejo.ca.us/city_hall/departments___divisions/police)
+* [Vallejo Police Department Facebook page](https://www.facebook.com/VallejoPD)
 
 ### Data
 
-_Data APIs and data sources:_
-
-* *[Wikipedia](http://en.wikipedia.org/wiki/Vallejo,_California)*
-* _[https://www.data.gov/developers/apis](https://www.data.gov/developers/apis)_
-* _[Developers - US Census Bureau](http://www.census.gov/developers/#)_
-* _[US City Open Data Census](http://us-city.census.okfn.org/)_
-* _[Statistics of US Businesses](http://www.census.gov/econ/susb/)_
-* _[ProPublica Data Store](https://projects.propublica.org/data-store/)_
-* *[Vallejo Police Department](http://www.ci.vallejo.ca.us/city_hall/departments___divisions/police)*
-
 ### News
 
-### Conversations 
+* [KQED: "Questions Surround Surge in Vallejo Police Shootings"](http://ww2.kqed.org/news/vallejo-police-officer-named-in-three-fatal-shootings)
+* [Vallejo Times-Herald: "Deputies launch night patrols to bolster shrunken city force"](http://www.timesheraldonline.com/ci_14416120)
+* [Vallejo Times-Herald: "Brenda J. Crawford: A time for leadership"](http://www.timesheraldonline.com/letterstotheeditor/ci_26785582/brenda-j-crawford-time-leadership)
+* [KQED: Vallejo](http://ww2.kqed.org/news/tag/vallejo)
 
-### Photos
+### Conversation

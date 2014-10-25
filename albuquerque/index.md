@@ -4,6 +4,10 @@ title: Albuquerque
 comments: true
 ---
 
+<img src="../public/images/albuquerque.jpg" alt="Albuquerque, NM">
+<small>
+_[Photo](https://www.flickr.com/photos/cobalt/10231050886/in/photostream/) taken by Flickr user [cobalt](https://www.flickr.com/photos/cobalt/), licensed under Creative Commons._
+</small>
 ### Overview 
 
 _Things that fellows would want to know about the city. Ideas from the Google doc:_

@@ -4,6 +4,11 @@ title: West Sacramento
 comments: true
 ---
 
+<img src="../public/images/westsac.jpg" alt="West Sacramento, CA">
+<small>
+_[Photo](https://www.flickr.com/photos/cmkeiner/5557630150/in/photostream/) taken by Flickr user [cmkeiner](https://www.flickr.com/photos/cmkeiner/), licensed under Creative Commons._
+</small>
+
 ### Overview 
 
 _Things that fellows would want to know about the city. Ideas from the Google doc:_

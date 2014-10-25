@@ -4,6 +4,11 @@ title: Pittsburgh
 comments: true
 ---
 
+<img src="../public/images/pittsburgh.jpg" alt="Pittsburgh, PA">
+<small>
+_[Photo](https://www.flickr.com/photos/matthewpaulson/4548757180) taken by Flickr user [matthewpaulson](https://www.flickr.com/photos/matthewpaulson/), licensed under Creative Commons._
+</small>
+
 ### Overview 
 
 _Things that fellows would want to know about the city. Ideas from the Google doc:_
