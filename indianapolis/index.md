@@ -37,8 +37,11 @@ _Things that fellows would want to know about the city. Ideas from the Google do
 
 ### News
 
-* ["Mayor Ballard and IMPD to focus on 6 dangerous Indy-area neighborhoods."](http://www.indystar.com/story/news/crime/2014/10/09/mayor-ballard-and-impd-to-focus-on-crime-prevention-in-six-indianapolis-area-neighborhoods/16979317/) _Indianapolis Star._
-*  _Indianapolis Star:_ [Crime and Courts](http://www.indystar.com/news/crime/)
+* [Indy Star: "Mayor Ballard and IMPD to focus on 6 dangerous Indy-area neighborhoods."](http://www.indystar.com/story/news/crime/2014/10/09/mayor-ballard-and-impd-to-focus-on-crime-prevention-in-six-indianapolis-area-neighborhoods/16979317/)
+* [Indy Star: "Tully: Troy Riggs takes new approach to tackling crime in Indy"](http://www.indystar.com/story/opinion/columnists/matthew-tully/2014/10/24/tully-troy-riggs-takes-new-approach-tackling-crime-indy/17829229/)
+* [Indy Star: "Single moms and Indianapolis crime: 'The streets raised him'"](http://www.indystar.com/story/news/crime/2014/10/23/single-moms-indianapolis-crime-streets-raised/17810937/)
+* [Fox59: "Mayor Greg Ballard: Hiring more police is not the issue"](http://fox59.com/2014/07/14/mayor-greg-ballard-hiring-more-police-is-not-the-issue/)
+* [Indy Star: Crime and Courts](http://www.indystar.com/news/crime/)
 
 ### Conversations 
 
