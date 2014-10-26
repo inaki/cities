@@ -8,6 +8,16 @@ photos:
     flickrUser: gaensler
     link: "https://www.flickr.com/photos/gaensler/5160960625"
     src: ../public/images/miami.jpg
+data:
+  -
+    name: "Wikipedia"
+    url: "http://en.wikipedia.org/wiki/Miami-Dade_County,_Florida"
+  -
+    name: "Miami-Date County Open Data"
+    url: "http://www.miamidade.gov/transparency/public-data.asp"
+  -
+    name: "Miami-Dade County Dept. of Economic Development"
+    url: "http://www.miamidade.gov/business/economic-development.asp"
 ---
 
 ### Overview 
@@ -42,21 +52,6 @@ _Ideas from the Google doc:_
   * [Refresh Miami](www.refreshmiami.com): there are many faces to Miami entrapeneurialism. Tech startups in Miami is nascent - still more "hustler" than "hacker" - but this is the networking group everyone goes to. Worth talking with its founder, Brian Breslin.
 * _Local CfA brigade, civic hackers + former CfA fellows for guidance, feedback, getting up to speed._
   * [Code for Miami](http://www.codeformiami.org), local civic hacking brigade which meets every Monday at 7pm in the Wynwood Arts District. Co-captains are [Rebekah Monson](http://www.twitter.com/rsm) and [Cristina Solana](https://twitter.com/nightshiftc), replacing Ernie as he participates in the Fellows program.
-
-### Data
-
-_Data APIs and data sources:_
-
-* *[Wikipedia](http://en.wikipedia.org/wiki/Miami-Dade_County,_Florida)*
-* _[https://www.data.gov/developers/apis](https://www.data.gov/developers/apis)_
-* _[Developers - US Census Bureau](http://www.census.gov/developers/#)_
-* _[US City Open Data Census](http://us-city.census.okfn.org/)_
-* _[Statistics of US Businesses](http://www.census.gov/econ/susb/)_
-* _[ProPublica Data Store](https://projects.propublica.org/data-store/)_
-* _[Miami-Dade County Open Data](http://www.miamidade.gov/transparency/public-data.asp)_
-* _[Miami-Dade County Dept. of Economic Development](http://www.miamidade.gov/business/economic-development.asp)_
-
-### News
 
 ### Conversations 
 

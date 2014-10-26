@@ -37,7 +37,7 @@ Additionally, if you are running an older version of OSX, it's possible that you
  2. Look in the **root** of the project for the directories named after the cities.
  3. You will find a markdown doc called **index.md** inside.
  4. Edit the **index.md** file.
-   a. If you are adding photos, links to data resources, or links to news pieces, you can edit the YAML on the top of the page. Just keep the formatting the same, and they will automatically appear properly.
+   a. If you are adding photos, links to data resources, or links to news pieces, you can edit the YAML on the top of the page. Just keep the formatting the same, and they will automatically appear properly.*
    b. If you are adding more detailed information, just edit the page directly with Markdown syntax.
  5. And make a **pull request** in github repo page.
 
@@ -47,3 +47,5 @@ Here some very good resources related to this project.
 - [Jekyll Official Website](http://jekyllrb.com/)
 - [Markdown Basics](https://help.github.com/articles/markdown-basics/)
 - [Jekyll Tutorial](https://www.youtube.com/watch?v=iWowJBRMtpc)
+
+* Note on YAML: If your news article has quotes in quotes in quotes (see Indianapolis for an example), you'll have to give YAML the unicode character for a double quote, which is \u0022. Please refer to the Indy page for an example.
