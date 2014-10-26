@@ -14,7 +14,10 @@ _[Photo](https://www.flickr.com/photos/gaensler/5160960625) taken by Flickr user
 _Things that fellows would want to know about the city. Ideas from the Google doc:_
 
 * _Weather, Demographics, Urbanicity_
+  * Weather: if you hate snow, congratulations! [Miami has two seasons](http://en.wikipedia.org/wiki/Miami#Climate): wet (May to November) and dry (November to May). When it's dry, expect a whole lot of pleasant shorts weather and people escaping New England and Chicago from freezing temperatures. When it's wet season, expect to hide in air-conditioned cars and get knocked over by a wall of humidity. As a bonus, wipe the condensation off your glasses every thirty minutes!
+  * Urbanicity: Miami and its surrounding county is not dense compared to the big cities. Expect to drive most areas, although there are high density and walkability in particular areas: areas of Miami Beach (including South Beach and North Beach), Brickell, Coconut Grove and parts of Downtown Miami.
 * _Is there a history of civic engagement? Does the city already have a Brigade?_
+  * A [2011 National Conference on Citizen Report](http://www.bobgrahamcenter.ufl.edu/sites/default/files/minn._miami_report.pdf) listed Miami as the lowest civicly-engaged large city in the United States. While many factors contribute to what makes a city civicly enaged or not, [a report published by The Miami Foundation](http://ourmiami.org/stories/civic-participation/) pointed key things. Of interest: a high rate of residents (67.1%) born outside the state or abroad: "when people are new to a community, they may not know how to be civicly-engaged or they might not feel connected to the community to participate."
 * _Community? Transportation (need a car)? Cost of living_
 * _Is there a high income-disparity? If so, why/how?_
 * _History: Is there a history of suspicion of local government?_
