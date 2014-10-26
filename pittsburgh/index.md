@@ -2,12 +2,19 @@
 layout: page
 title: Pittsburgh
 comments: true
----
+photos:
+  -
+    alt: "Pittsburgh, PA"
+    flickrUser: matthewpaulson
+    link: "https://www.flickr.com/photos/matthewpaulson/4548757180"
+    src: ../public/images/pittsburgh.jpg
+  -
+    alt: "Pittsburgh, PA"
+    flickrUser: michaelrighi
+    link: "https://www.flickr.com/photos/michaelrighi/110465938"
+    src: ../public/images/pittsburgh2.jpg
 
-<img src="../public/images/pittsburgh.jpg" alt="Pittsburgh, PA">
-<small>
-_[Photo](https://www.flickr.com/photos/matthewpaulson/4548757180) taken by Flickr user [matthewpaulson](https://www.flickr.com/photos/matthewpaulson/), licensed under Creative Commons._
-</small>
+---
 
 ### Overview 
 

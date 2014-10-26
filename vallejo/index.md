@@ -2,12 +2,13 @@
 layout: page
 title: Vallejo
 comments: true
+photos:
+  -
+    alt: "Vallejo, CA"
+    flickrUser: usfsregion5
+    link: "https://www.flickr.com/photos/usfsregion5/5809142932"
+    src: ../public/images/vallejo.jpg
 ---
-
-<img src="../public/images/vallejo.jpg" alt="Vallejo, CA">
-<small>
-_[Photo](https://www.flickr.com/photos/usfsregion5/5809142932) by Flickr user [usfsregion5](https://www.flickr.com/photos/usfsregion5/), licensed under Creative Commons._
-</small>
 
 ### Overview 
 
