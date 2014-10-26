@@ -2,12 +2,13 @@
 layout: page
 title: Miami Dade
 comments: true
+photos:
+  -
+    alt: "Miami, FL"
+    flickrUser: gaensler
+    link: "https://www.flickr.com/photos/gaensler/5160960625"
+    src: ../public/images/miami.jpg
 ---
-
-<img src="../public/images/miami.jpg" alt="Miami, FL">
-<small>
-_[Photo](https://www.flickr.com/photos/gaensler/5160960625) taken by Flickr user [gaensler](https://www.flickr.com/photos/gaensler/), licensed under Creative Commons._
-</small>
 
 ### Overview 
 

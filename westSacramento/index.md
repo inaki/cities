@@ -2,12 +2,13 @@
 layout: page
 title: West Sacramento
 comments: true
+photos:
+  -
+    alt: "West Sacramento, CA"
+    flickrUser: cmkeiner
+    link: "https://www.flickr.com/photos/cmkeiner/5557630150/in/photostream/"
+    src: ../public/images/westsac.jpg
 ---
-
-<img src="../public/images/westsac.jpg" alt="West Sacramento, CA">
-<small>
-_[Photo](https://www.flickr.com/photos/cmkeiner/5557630150/in/photostream/) taken by Flickr user [cmkeiner](https://www.flickr.com/photos/cmkeiner/), licensed under Creative Commons._
-</small>
 
 ### Overview 
 

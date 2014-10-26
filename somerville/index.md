@@ -2,13 +2,13 @@
 layout: page
 title: Somerville
 comments: true
+photos: 
+  - 
+    alt: "Somerville, MA"
+    flickrUser: sandcastlematt
+    link: "https://www.flickr.com/photos/sandcastlematt/"
+    src: ../public/images/somerville.jpg
 ---
-
-<img src="../public/images/somerville.jpg" alt="Somerville, MA">
-<small>
-_[Photo](https://www.flickr.com/photos/sandcastlematt/1076472561/) taken by Flickr user [sandcastlematt](https://www.flickr.com/photos/sandcastlematt/), licensed under Creative Commons._
-</small>
-
 
 ### Overview 
 

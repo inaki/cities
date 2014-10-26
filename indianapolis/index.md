@@ -2,12 +2,13 @@
 layout: page
 title: Indianapolis
 comments: true
+photos:
+  -
+    alt: "Indianapolis, IN"
+    flickrUser: chocolatedisco
+    link: "https://www.flickr.com/photos/chocolatedisco/3440651278"
+    src: ../public/images/indianapolis.jpg
 ---
-
-<img src="../public/images/indianapolis.jpg" alt="Indianapolis, IN">
-<small>
-_[Photo](https://www.flickr.com/photos/chocolatedisco/3440651278) taken by Flickr user [chocolatedisco](https://www.flickr.com/photos/chocolatedisco/), licensed under Creative Commons._
-</small>
 
 ### Overview 
 
