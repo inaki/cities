@@ -14,12 +14,19 @@ for the people of this cities this year.
 
 ## jekyll site
 
-**installation**
+#### Installing Jekyll
+
+If you don't have jekyll installed, check out the [installation docs](http://jekyllrb.com/docs/installation/). 
+
+Additionally, if you are running an older version of OSX, it's possible that you won't be able to build the site properly because your version of Ruby is too old. If this happens, you can try to [homebrew](http://brew.sh/) the new version of Ruby, and set your PATH to prioritize that one. (`export PATH=export PATH=/usr/local/bin:$PATH`)
+
+#### Running the cities app
+
  1. **Fork** the repo
  2. **Download** to your local machine
  3. Open de **terminal**
  4. ``cd /path/to/repo``
- 5. run: ```jekyl serve```
+ 5. run: ```jekyll serve```
  6. Open your **web browser**  
  7. In the url bar enter ```localhost:4000```
  8. And *"Wah Lah!"*
@@ -29,10 +36,12 @@ for the people of this cities this year.
  1. Open your **text editor** of preference.
  2. Look in the **root** of the project for the directories named after the cities.
  3. You will find a markdown doc called **index.md** inside.
- 4. Edit the **index.md** using markdown syntax.
+ 4. Edit the **index.md** file.
+   a. If you are adding photos, links to data resources, or links to news pieces, you can edit the YAML on the top of the page. Just keep the formatting the same, and they will automatically appear properly.
+   b. If you are adding more detailed information, just edit the page directly with Markdown syntax.
  5. And make a **pull request** in github repo page.
 
-## Rosources
+## Resources
 Here some very good resources related to this project.
 
 - [Jekyll Official Website](http://jekyllrb.com/)
