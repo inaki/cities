@@ -8,6 +8,19 @@ photos:
     flickrUser: cobalt
     link: "https://www.flickr.com/photos/cobalt/10231050886/in/photostream/"
     src: ../public/images/albuquerque.jpg
+data:
+  -
+    name: "Wikipedia"
+    url: http://en.wikipedia.org/wiki/Albuquerque,_New_Mexico
+  -
+    name: "City of Albuquerque Data"
+    url: "http://www.cabq.gov/abq-data"
+  -
+    name: "City of Albuquerque Data Twitter Account"
+    url: "https://twitter.com/ABQData"
+  -
+    name: "City of Albuquerque Dept. of Economic Development"
+    url: "http://www.cabq.gov/economicdevelopment"
 ---
 
 ### Overview 
@@ -29,22 +42,6 @@ _Ideas from the Google doc:_
 * _Key city gov departments related to focus topic._
 * _Community organizations currently active in focus topic, especially groups that can provide guidance and feedback._
 * _Local CfA brigade, civic hackers + former CfA fellows for guidance, feedback, getting up to speed._
-
-### Data
-
-_Data APIs and data sources:_
-
-* *[Wikipedia](http://en.wikipedia.org/wiki/Albuquerque,_New_Mexico)*
-* _[https://www.data.gov/developers/apis](https://www.data.gov/developers/apis)_
-* _[Developers - US Census Bureau](http://www.census.gov/developers/#)_
-* _[US City Open Data Census](http://us-city.census.okfn.org/)_
-* _[Statistics of US Businesses](http://www.census.gov/econ/susb/)_
-* _[ProPublica Data Store](https://projects.propublica.org/data-store/)_
-* _[City of Albuquerque Data](http://www.cabq.gov/abq-data/)_
-* _[City of Albuquerque Data Twitter Account](https://twitter.com/ABQData)_
-* _[City of Albuquerque Dept. of Economic Development](http://www.cabq.gov/economicdevelopment)_
-
-### News
 
 ### Conversations 
 
