@@ -2,12 +2,26 @@
 layout: page
 title: West Sacramento
 comments: true
+photos:
+  -
+    alt: "West Sacramento, CA"
+    flickrUser: cmkeiner
+    link: "https://www.flickr.com/photos/cmkeiner/5557630150/in/photostream/"
+    src: ../public/images/westsac.jpg
+data: 
+  - 
+    name: Wikipedia
+    url: "http://en.wikipedia.org/wiki/West_Sacramento,_California"
+  - 
+    name: West Sacramento Open Data
+    url: "https://data.cityofwestsacramento.org/"
+  - 
+    name: City of West Sacramento Dept. of Business Development
+    url: "http://cityofwestsacramento.org/business/default.asp"
+  - 
+    name: City of West Sacramento Dept. of Community Development
+    url: "http://cityofwestsacramento.org/city/depts/comdev/default.asp"
 ---
-
-<img src="../public/images/westsac.jpg" alt="West Sacramento, CA">
-<small>
-_[Photo](https://www.flickr.com/photos/cmkeiner/5557630150/in/photostream/) taken by Flickr user [cmkeiner](https://www.flickr.com/photos/cmkeiner/), licensed under Creative Commons._
-</small>
 
 ### Overview 
 
@@ -28,22 +42,6 @@ _Ideas from the Google doc:_
 * _Key city gov departments related to focus topic._
 * _Community organizations currently active in focus topic, especially groups that can provide guidance and feedback._
 * _Local CfA brigade, civic hackers + former CfA fellows for guidance, feedback, getting up to speed._
-
-### Data
-
-_Data APIs and data sources:_
-
-* *[Wikipedia](http://en.wikipedia.org/wiki/West_Sacramento,_California)*
-* _[https://www.data.gov/developers/apis](https://www.data.gov/developers/apis)_
-* _[Developers - US Census Bureau](http://www.census.gov/developers/#)_
-* _[US City Open Data Census](http://us-city.census.okfn.org/)_
-* _[Statistics of US Businesses](http://www.census.gov/econ/susb/)_
-* _[ProPublica Data Store](https://projects.propublica.org/data-store/)_
-* _[West Sacramento Open Data](https://data.cityofwestsacramento.org/)_
-* _[City of West Sacramento Dept. of Business Development](http://cityofwestsacramento.org/business/default.asp)_
-* _[City of West Sacramento Dept. of Community Development](http://cityofwestsacramento.org/city/depts/comdev/default.asp)_
-
-### News
 
 ### Conversations 
 

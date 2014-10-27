@@ -2,13 +2,23 @@
 layout: page
 title: Somerville
 comments: true
+photos: 
+  - 
+    alt: "Somerville, MA"
+    flickrUser: sandcastlematt
+    link: "https://www.flickr.com/photos/sandcastlematt/"
+    src: ../public/images/somerville.jpg
+data:
+  -
+    name: "City of Somerville Open Data"
+    url: "https://data.somervillema.gov/"
+  -
+    name: "Somerville Public Schools"
+    url: "http://www.somerville.k12.ma.us/education/components/scrapbook/default.php?sectionid=1"
+  -
+    name: "Somerville Public Schools Twitter Account"
+    url: "https://twitter.com/SvilleSchools"
 ---
-
-<img src="../public/images/somerville.jpg" alt="Somerville, MA">
-<small>
-_[Photo](https://www.flickr.com/photos/sandcastlematt/1076472561/) taken by Flickr user [sandcastlematt](https://www.flickr.com/photos/sandcastlematt/), licensed under Creative Commons._
-</small>
-
 
 ### Overview 
 
@@ -29,22 +39,6 @@ _Ideas from the Google doc:_
 * _Key city gov departments related to focus topic._
 * _Community organizations currently active in focus topic, especially groups that can provide guidance and feedback._
 * _Local CfA brigade, civic hackers + former CfA fellows for guidance, feedback, getting up to speed._
-
-### Data
-
-_Data APIs and data sources:_
-
-* *[Wikipedia](http://en.wikipedia.org/wiki/Somerville,_Massachusetts)*
-* _[https://www.data.gov/developers/apis](https://www.data.gov/developers/apis)_
-* _[Developers - US Census Bureau](http://www.census.gov/developers/#)_
-* _[US City Open Data Census](http://us-city.census.okfn.org/)_
-* _[Statistics of US Businesses](http://www.census.gov/econ/susb/)_
-* _[ProPublica Data Store](https://projects.propublica.org/data-store/)_
-* _[City of Somerville Open Data](https://data.somervillema.gov/)_
-* _[Somerville Public Schools](http://www.somerville.k12.ma.us/education/components/scrapbook/default.php?sectionid=1)_
-* _[Somerville Public Schools Twitter Account](https://twitter.com/SvilleSchools)_
-
-### News
 
 ### Conversations 
 

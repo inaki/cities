@@ -2,12 +2,25 @@
 layout: page
 title: Pittsburgh
 comments: true
+photos:
+  -
+    alt: "Pittsburgh, PA"
+    flickrUser: matthewpaulson
+    link: "https://www.flickr.com/photos/matthewpaulson/4548757180"
+    src: ../public/images/pittsburgh.jpg
+  -
+    alt: "Pittsburgh, PA"
+    flickrUser: michaelrighi
+    link: "https://www.flickr.com/photos/michaelrighi/110465938"
+    src: ../public/images/pittsburgh2.jpg
+data:
+  -
+    name: "Wikipedia"
+    url: http://en.wikipedia.org/wiki/Pittsburgh
+  -
+    name: "City of Pittsburgh Office of Management and Budget"
+    url: http://pittsburghpa.gov/omb/
 ---
-
-<img src="../public/images/pittsburgh.jpg" alt="Pittsburgh, PA">
-<small>
-_[Photo](https://www.flickr.com/photos/matthewpaulson/4548757180) taken by Flickr user [matthewpaulson](https://www.flickr.com/photos/matthewpaulson/), licensed under Creative Commons._
-</small>
 
 ### Overview 
 
@@ -20,7 +33,6 @@ _Things that fellows would want to know about the city. Ideas from the Google do
 * _History: Is there a history of suspicion of local government?_
 * _Geography. Industry. Blue collar? Hospitality? Creatives moving in? Is it “a city in transition?”_
 
-
 ### Allies
 
 _Ideas from the Google doc:_
@@ -29,19 +41,6 @@ _Ideas from the Google doc:_
 * _Community organizations currently active in focus topic, especially groups that can provide guidance and feedback._
 * _Local CfA brigade, civic hackers + former CfA fellows for guidance, feedback, getting up to speed._
 
-### Data
-
-_Data APIs and data sources:_
-
-* _[Wikipedia](http://en.wikipedia.org/wiki/Pittsburgh)_
-* _[https://www.data.gov/developers/apis](https://www.data.gov/developers/apis)_
-* _[Developers - US Census Bureau](http://www.census.gov/developers/#)_
-* _[US City Open Data Census](http://us-city.census.okfn.org/)_
-* _[Statistics of US Businesses](http://www.census.gov/econ/susb/)_
-* _[ProPublica Data Store](https://projects.propublica.org/data-store/)_
-* _[City of Pittsburgh Office of Management and Budget](http://pittsburghpa.gov/omb/)_
-
-### News
 
 ### Conversations 
 

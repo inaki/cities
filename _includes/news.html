@@ -1,0 +1,10 @@
+{% if page.news.size > 0 %}
+<h3>News</h3>
+
+<ul>
+  <!-- City-specific resources -->
+  {% for article in page.news %}
+    <li><a href="{{ article.url }}"><em>{{ article.title }}</em></a></li>
+  {% endfor %}
+</ul>
+{% endif %}

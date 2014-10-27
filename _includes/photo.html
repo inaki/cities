@@ -1,0 +1,19 @@
+{% if page.photos.size == 1 %}
+  <img src="{{page.photos[0].src}}" alt="{{page.photos[0].alt}}">
+    <small>
+      <a href="{{page.photos[0].link}}">Photo</a> taken by Flicker user <a href="https://www.flickr.com/photos/{{page.photos[0].flickrUser}}">{{page.photos[0].flickrUser}}</a>
+  </small>
+{% else %}
+
+  {% comment %}
+    Select a photo based on time -- note this is based on the time the site was BUILT, we need to include some additional JS or a jekyll plugin to make it more robust 
+  {% endcomment %}
+
+  {% capture index %}{{ 'now' | date: '%S' | times: page.photos.size | divided_by: 60}}{% endcapture %}
+  {% for photo in page.photos offset:index limit:1 %}
+    <img src="{{photo.src}}" alt="{{photo.alt}}">
+    <small>
+      <a href="{{photo.link}}">Photo</a> taken by Flicker user <a href="https://www.flickr.com/photos/{{photo.flickrUser}}">{{photo.flickrUser}}</a>, licensed under Creative Commons.
+    </small>
+  {% endfor %}
+{% endif %}
