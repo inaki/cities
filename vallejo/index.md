@@ -26,6 +26,8 @@ news:
 
 ### Overview 
 
+The City of Vallejo aims to enhance communication and increase public involvement and collaboration on issues concerning public safety, with the goal of increasing trust and building a better relationship between residents and the police department. Vallejo has one of the lowest police to citizen ratios in the country. While Vallejo currently has a balanced budget (after having filed for bankruptcy in 2008), the City has limited staff capacity in every department. As a result, the City needs to become more efficient and creative as they deal with challenges.
+
 ### Links
 
 * [Vallejo Police Department website](http://www.ci.vallejo.ca.us/city_hall/departments___divisions/police)
