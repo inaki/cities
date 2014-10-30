@@ -21,7 +21,16 @@ news:
   -
     title: 'KQED: Vallejo'
     url: "http://ww2.kqed.org/news/tag/vallejo"
-
+  - 
+    title: 'Times-Herald: "Vallejo homicide numbers highest in nearly 20 years"'
+    url: http://www.timesheraldonline.com/news/ci_24831783/crimes-increased-2013
+  - 
+    title: 'Times-Herald: "Feds to facilitate community meeting with Vallejo police representatives"'
+    url: http://www.timesheraldonline.com/ci_22331428/feds-mediate-community-meeting-vallejo-police-representatives
+data:
+  -
+    name: 'Bay Area Census: Vallejo'
+    url: http://www.bayareacensus.ca.gov/cities/Vallejo.htm%20City%20of%20Vallejo
 ---
 
 ### Overview 
@@ -32,3 +41,7 @@ The City of Vallejo aims to enhance communication and increase public involvemen
 
 * [Vallejo Police Department website](http://www.ci.vallejo.ca.us/city_hall/departments___divisions/police)
 * [Vallejo Police Department Facebook page](https://www.facebook.com/VallejoPD)
+
+### Resources 
+
+* [U.S. Department of Justice Community Relations Service: Resources](http://www.justice.gov/crs/resource-center)
