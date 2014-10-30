@@ -25,4 +25,6 @@ data:
 
 ### Overview 
 
+The Sacramento Area Council of Governments initiated the Rural-Urban Connections Strategy (RUCS), which provides a rural perspective on improving the region’s economic viability and environmental sustainability. This program has been great at developing programs that inform data driven public policy decisions, but they would like to take it further and develop meaningful applications that the average citizens can use to match aspiring chefs to commercial kitchens, connect young farmers to available farm land, prioritize areas to recruit grocery stores and address food deserts, etc. There will be a focus placed on health and inclusive community engagement in the process.
+
 ### Allies

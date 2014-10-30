@@ -22,4 +22,6 @@ data:
 
 ### Overview 
 
+Somerville wants to focus on better educational outcomes for their students. They have access to data from their student information system, early childhood education data, welfare data, vital records, and crime data. They would like to see how integrating this data would help to paint a better picture of a person and allow for early interventions to help students achieve better outcomes. They are especially interested in the 0-K years. 
+
 ### Allies

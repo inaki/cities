@@ -35,6 +35,8 @@ news:
 
 ### Overview 
 
+Indianapolis just replaced CAD and RMS systems, giving access to an unprecedented amount of data that can be used both to improve the information passed on to the public and serve as an internal measurement of efficiency. They hope to use this data to more efficiently allocate public safety resources, ensure a proactive and effective approach to policing, and enhance the safety of citizens.
+
 ### Local Government & Allies
 
 * Interesting program: [Indy Metro Police Department's Citizens' Academy](http://www.indy.gov/eGov/City/DPS/IMPD/Involved/Pages/citizen.aspx).

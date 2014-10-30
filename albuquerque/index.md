@@ -25,4 +25,6 @@ data:
 
 ### Overview 
 
+Albuquerque wants to evaluate the barriers that citizens face in accessing economic development and employment opportunities, as well as the barriers the government faces in providing employment or human services that enable upward mobility, especially as pertains to its innovation district.
+
 ### Allies
