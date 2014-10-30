@@ -45,3 +45,10 @@ The City of Vallejo aims to enhance communication and increase public involvemen
 ### Resources 
 
 * [U.S. Department of Justice Community Relations Service: Resources](http://www.justice.gov/crs/resource-center)
+
+### Tweets
+
+A collection of tweets from Vallejo residents about crime and safety. 
+
+* [@elicast02: "Crime is picking up again here in #Vallejo..."](https://twitter.com/elicast02/status/527858500580278272)
+* [@MoeCheeese: "I wish Vallejo wasn't so crime affiliated..."](https://twitter.com/MoeCheeese/status/527303282264653825)
