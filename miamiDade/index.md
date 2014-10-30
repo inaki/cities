@@ -22,22 +22,15 @@ data:
 
 ### Overview 
 
-_Things that fellows would want to know about the city. Ideas from the Google doc:_
-
 * _Weather, Demographics, Urbanicity_
   * Weather: if you hate snow, congratulations! [Miami has two seasons](http://en.wikipedia.org/wiki/Miami#Climate): wet (May to November) and dry (November to May). When it's dry, expect a whole lot of pleasant shorts weather and people escaping New England and Chicago from freezing temperatures. When it's wet season, expect to hide in air-conditioned cars and get knocked over by a wall of humidity. As a bonus, wipe the condensation off your glasses every thirty minutes!
   * Urbanicity: Miami and its surrounding county is not dense compared to the big cities. Expect to drive most areas, although there are high density and walkability in particular areas: areas of Miami Beach (including South Beach and North Beach), Brickell, Coconut Grove and parts of Downtown Miami.
 * _Is there a history of civic engagement? Does the city already have a Brigade?_
   * A [2011 National Conference on Citizen Report](http://www.bobgrahamcenter.ufl.edu/sites/default/files/minn._miami_report.pdf) listed Miami as the lowest civicly-engaged large city in the United States. While many factors contribute to what makes a city civicly enaged or not, [a report published by The Miami Foundation](http://ourmiami.org/stories/civic-participation/) pointed key things. Of interest: a high rate of residents (67.1%) born outside the state or abroad: "when people are new to a community, they may not know how to be civicly-engaged or they might not feel connected to the community to participate."
-* _Community? Transportation (need a car)? Cost of living_
-* _Is there a high income-disparity? If so, why/how?_
-* _History: Is there a history of suspicion of local government?_
-* _Geography. Industry. Blue collar? Hospitality? Creatives moving in? Is it “a city in transition?”_
 
 
 ### Allies
 
-_Ideas from the Google doc:_
 
 * _Key city gov departments related to focus topic._
   * [Miami-Dade Community Information and Outreach](http://www.miamidade.gov/information/): [Mike Sarasti is a Program Manager](http://305biz.org/2014/09/29/mike-sarasti-on-open-data-fall-2014/) in this particular department at Miami-Dade County. He's also our municipal partner at Code for Miami and helped bring the Fellows program to the County, so I'm assuming he'll be our chief liason for the fellows. His boss is Henry Sori who is the director of the department.  
@@ -52,7 +45,3 @@ _Ideas from the Google doc:_
   * [Refresh Miami](www.refreshmiami.com): there are many faces to Miami entrapeneurialism. Tech startups in Miami is nascent - still more "hustler" than "hacker" - but this is the networking group everyone goes to. Worth talking with its founder, Brian Breslin.
 * _Local CfA brigade, civic hackers + former CfA fellows for guidance, feedback, getting up to speed._
   * [Code for Miami](http://www.codeformiami.org), local civic hacking brigade which meets every Monday at 7pm in the Wynwood Arts District. Co-captains are [Rebekah Monson](http://www.twitter.com/rsm) and [Cristina Solana](https://twitter.com/nightshiftc), replacing Ernie as he participates in the Fellows program.
-
-### Conversations 
-
-### Photos

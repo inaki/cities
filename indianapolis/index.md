@@ -35,16 +35,6 @@ news:
 
 ### Overview 
 
-_Things that fellows would want to know about the city. Ideas from the Google doc:_
-
-* _Weather, Demographics, Urbanicity_
-* _Is there a history of civic engagement? Does the city already have a Brigade?_
-* _Community? Transportation (need a car)? Cost of living_
-* _Is there a high income-disparity? If so, why/how?_
-* _History: Is there a history of suspicion of local government?_
-* _Geography. Industry. Blue collar? Hospitality? Creatives moving in? Is it “a city in transition?”_
-
-
 ### Local Government & Allies
 
 * Interesting program: [Indy Metro Police Department's Citizens' Academy](http://www.indy.gov/eGov/City/DPS/IMPD/Involved/Pages/citizen.aspx).
@@ -53,7 +43,3 @@ _Things that fellows would want to know about the city. Ideas from the Google do
     * [IndyNDA Meetup](http://www.meetup.com/IndyNDA/)
     * [Girl Develop It Indianapolis](http://www.meetup.com/Girl-Develop-It-Indianapolis/)
     * [NODE.indy](http://www.meetup.com/Node-indy/)
-
-### Conversations 
-
-### Photos

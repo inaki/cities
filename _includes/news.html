@@ -4,7 +4,7 @@
 <ul>
   <!-- City-specific resources -->
   {% for article in page.news %}
-    <li><a href="{{ article.url }}"><em>{{ article.title }}</em></a></li>
+    <li><a href="{{ article.url }}">{{ article.title }}</a></li>
   {% endfor %}
 </ul>
 {% endif %}

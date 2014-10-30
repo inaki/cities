@@ -30,5 +30,3 @@ news:
 
 * [Vallejo Police Department website](http://www.ci.vallejo.ca.us/city_hall/departments___divisions/police)
 * [Vallejo Police Department Facebook page](https://www.facebook.com/VallejoPD)
-
-### Conversation

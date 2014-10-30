@@ -1,26 +1,8 @@
 <h3>Data</h3>
-<p><em>Data APIs and data sources:</em></p>
-
 <ul>
   <!-- City-specific resources -->
   {% for resource in page.data %}
-    <li><a href="{{ resource.url }}"><em>{{ resource.name }}</em></a></li>
+    <li><a href="{{ resource.url }}">{{ resource.name }}</a></li>
   {% endfor %}
   <!-- Common resources -->
-  <li>
-    <a href="https://www.data.gov/developers/apis"><em>Data.gov APIs</em></a>
-  </li>
-  <li>
-    <a href="http://www.census.gov/developers/#"><em>Developers - US Census Bureau</em></a>
-  </li>
-  <li>
-    <a href="http://us-city.census.okfn.org/"><em>US City Open Data Census</em></a>
-  </li>
-  <li>
-    <a href="http://www.census.gov/econ/susb/"><em>Statistics of US Businesses</em></a>
-  </li>
-  <li>
-    <a href="https://projects.propublica.org/data-store"><em>ProPublica Data Store</em></a>
-  </li>
-
 </ul>
