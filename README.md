@@ -29,7 +29,7 @@ Additionally, if you are running an older version of OSX, it's possible that you
  5. run: ```jekyll serve```
  6. Open your **web browser**  
  7. In the url bar enter ```localhost:4000```
- 8. And *"Wah Lah!"*
+ 8. And *"Voilà!"*
 
 ## Editing the cities pages
 **Editing**
