@@ -37,4 +37,8 @@ fellows:
 
 ### Overview 
 
+Pittsburgh is a post-rust belt success story, with a booming new economy centered around its universities, hospitals and philanthropic institutions. The city is poised to take the next step with a new administration dedicated to reinventing one of the least sexy but most central functions of government: procurement. Pittsburgh will work with a CfA fellowship team to use technology and user centered design to fundamentally change the outmoded and inefficient way it buys everything from software to paperclips.
+
 ### Allies
+
+### News
