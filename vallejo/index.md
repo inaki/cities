@@ -31,6 +31,19 @@ data:
   -
     name: 'Bay Area Census: Vallejo'
     url: http://www.bayareacensus.ca.gov/cities/Vallejo.htm%20City%20of%20Vallejo
+fellows:
+  -
+    name: "Nikki Zeichner"
+    url: "http://www.codeforamerica.org/people/nikki-zeichner/"
+    image: "http://www.codeforamerica.org/media/images/people/nikki-zeichner.jpg"
+  -
+    name: "Andrew Schneider"
+    url: "http://www.codeforamerica.org/people/andrew-schneider/"
+    image: "http://www.codeforamerica.org/media/images/people/andrew-schneider.jpg"
+  -
+    name: "Jazmyn Latimer"
+    url: "http://www.codeforamerica.org/people/jazmyn-latimer/"
+    image: "http://www.codeforamerica.org/media/images/people/jazmyn-latimer.jpg"
 ---
 
 ### Overview 

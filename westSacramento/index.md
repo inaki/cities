@@ -21,6 +21,19 @@ data:
   -
     name: City of West Sacramento Dept. of Community Development
     url: "http://cityofwestsacramento.org/city/depts/comdev/default.asp"
+fellows:
+  -
+    name: "Imanol Aranzadi"
+    url: "http://www.codeforamerica.org/people/imanol-aranzadi/"
+    image: "http://www.codeforamerica.org/media/images/people/imanol-aranzadi.jpg"
+  -
+    name: "Natasha Fountain"
+    url: "http://www.codeforamerica.org/people/natasha-fountain/"
+    image: "http://www.codeforamerica.org/media/images/people/natasha-fountain.png"
+  -
+    name: "Grant Smith"
+    url: "http://www.codeforamerica.org/people/grant-smith/"
+    image: "http://www.codeforamerica.org/media/images/people/grant-smith.png"
 ---
 
 ### Overview

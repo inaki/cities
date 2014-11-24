@@ -18,6 +18,19 @@ data:
   -
     name: "Miami-Dade County Dept. of Economic Development"
     url: "http://www.miamidade.gov/business/economic-development.asp"
+fellows:
+  -
+    name: "Ernie Hsiung"
+    url: "http://www.codeforamerica.org/people/ernie-hsiung/"
+    image: "http://www.codeforamerica.org/media/images/people/ernie-hsiung.jpg"
+  -
+    name: "Sophia Dengo"
+    url: "http://www.codeforamerica.org/people/sophia-dengo/"
+    image: "http://www.codeforamerica.org/media/images/people/sophia-dengo.jpg"
+  -
+    name: "Mathias Gibson"
+    url: "http://www.codeforamerica.org/people/mathias-gibson/"
+    image: "http://www.codeforamerica.org/media/images/people/mathias-gibson.jpg"
 ---
 
 ### Overview 

@@ -2,6 +2,19 @@
 layout: page
 title: Richmond
 comments: true
+fellows:
+  -
+    name: "Ben Golder"
+    url: "http://www.codeforamerica.org/people/ben-golder/"
+    image: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
+  -
+    name: "Emma Smithayer"
+    url: "http://www.codeforamerica.org/people/emma-smithayer/"
+    image: "http://www.codeforamerica.org/media/images/people/emma-smithayer.jpg"
+  -
+    name: "Sam Matthews"
+    url: "http://www.codeforamerica.org/people/sam-matthews/"
+    image: "http://www.codeforamerica.org/media/images/people/sam-matthews.jpg"
 ---
 
 ### Overview
