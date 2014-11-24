@@ -44,12 +44,3 @@ The Sacramento Area Council of Governments initiated the Rural-Urban Connections
 
 * [Mayor Christopher Cabaldon](http://en.wikipedia.org/wiki/Christopher_Cabaldon)
 (born November 12, 1965) is a Filipino-American politician from California who serves as mayor of West Sacramento. He is the longest-serving mayor in the city's history. He also represents the State of California on the Western Interstate Commission on Higher Education as an appointee of California Governor Jerry Brown. He is a member of the Democratic Party and Vice President of the National Conference of Democratic Mayors.
-
-### Fellows
-
-#### [Imanol Aranzadi](http://www.codeforamerica.org/people/imanol-aranzadi/)
-Imanol Aranzadi is a front-end designer and dev from Caguas, Puerto Rico.
-#### [Natasha Fountain](http://www.codeforamerica.org/people/natasha-fountain/)
-Natasha is a designer from Fort Lauderdale, Florida.
-#### [Grant Smith](http://www.codeforamerica.org/people/grant-smith/)
-Grant is a software developer from Madison, Wisconsin.
