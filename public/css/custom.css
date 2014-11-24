@@ -1,0 +1,8 @@
+.fellows {
+  list-style-type: none;
+  margin:0; padding:0;
+}
+.fellows li {
+  width:31%;
+  display:inline-block;
+}

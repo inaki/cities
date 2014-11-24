@@ -1,0 +1,10 @@
+<h3>Fellows</h3>
+<ul class="fellows">
+  <!-- City-specific fellows -->
+  {% for fellow in page.fellows %}
+    <li><a href="{{ fellow.url }}" target="_blank">
+      <img src="{{ fellow.image }}">
+      {{ fellow.name }}
+    </a></li>
+  {% endfor %}
+</ul>

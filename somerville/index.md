@@ -18,6 +18,19 @@ data:
   -
     name: "Somerville Public Schools Twitter Account"
     url: "https://twitter.com/SvilleSchools"
+fellows:
+  -
+    name: "Amir Hadjihabib"
+    url: "http://www.codeforamerica.org/people/amir-hadjihabib/"
+    image: "http://www.codeforamerica.org/media/images/people/amir-hadjihabib.jpg"
+  -
+    name: "Mari Muraki"
+    url: "http://www.codeforamerica.org/people/mari-muraki/"
+    image: "http://www.codeforamerica.org/media/images/people/mari-muraki.jpg"
+  -
+    name: "Alex Soble"
+    url: "http://www.codeforamerica.org/people/alex-soble/"
+    image: "http://www.codeforamerica.org/media/images/people/alex-soble.jpg"
 ---
 
 ### Overview 

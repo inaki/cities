@@ -21,6 +21,19 @@ data:
   -
     name: "City of Albuquerque Dept. of Economic Development"
     url: "http://www.cabq.gov/economicdevelopment"
+fellows:
+  -
+    name: "William Tyner"
+    url: "http://www.codeforamerica.org/people/william-tyner/"
+    image: "http://www.codeforamerica.org/media/images/people/william-tyner.jpg"
+  -
+    name: "Yaniv Zimet"
+    url: "http://www.codeforamerica.org/people/yaniv-zimet/"
+    image: "http://www.codeforamerica.org/media/images/people/yaniv-zimet.jpg"
+  -
+    name: "Jennings Hanna"
+    url: "http://www.codeforamerica.org/people/jennings-hanna/"
+    image: "http://www.codeforamerica.org/media/images/people/jennings-hanna.png"
 ---
 
 ### Overview 

@@ -31,6 +31,19 @@ news:
   -
     title: 'Indy Star: Crime and Courts'
     url: 'http://www.indystar.com/news/crime/'
+fellows:
+  -
+    name: "Laura Ellena"
+    url: "http://www.codeforamerica.org/people/laura-ellena/"
+    image: "http://www.codeforamerica.org/media/images/people/laura-ellena.jpg"
+  -
+    name: "Chris Reade"
+    url: "http://www.codeforamerica.org/people/chris-reade/"
+    image: "http://www.codeforamerica.org/media/images/people/chris-reade.jpg"
+  -
+    name: "Tiffany Andrews"
+    url: "http://www.codeforamerica.org/people/tiffany-andrews/"
+    image: "http://www.codeforamerica.org/media/images/people/tiffany-andrews.jpg"
 ---
 
 ### Overview 
