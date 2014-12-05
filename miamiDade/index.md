@@ -35,6 +35,8 @@ fellows:
 
 ### Overview 
 
+"Miami-Dade County [is looking] to improve constituent interactions with a focus on economic development and regulatory outcomes, enriching feedback loops and improving access to services. In the process of doing so, they want to make key data sets more open accessible to internal partners and the public."
+
 * _Weather, Demographics, Urbanicity_
   * Weather: if you hate snow, congratulations! [Miami has two seasons](http://en.wikipedia.org/wiki/Miami#Climate): wet (May to November) and dry (November to May). When it's dry, expect a whole lot of pleasant shorts weather and people escaping New England and Chicago from freezing temperatures. When it's wet season, expect to hide in air-conditioned cars and get knocked over by a wall of humidity. As a bonus, wipe the condensation off your glasses every thirty minutes!
   * Urbanicity: Miami and its surrounding county is not dense compared to the big cities. Expect to drive most areas, although there are high density and walkability in particular areas: areas of Miami Beach (including South Beach and North Beach), Brickell, Coconut Grove and parts of Downtown Miami.
