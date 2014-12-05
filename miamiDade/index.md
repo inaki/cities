@@ -42,6 +42,13 @@ fellows:
   * A [2011 National Conference on Citizen Report](http://www.bobgrahamcenter.ufl.edu/sites/default/files/minn._miami_report.pdf) listed Miami as the lowest civicly-engaged large city in the United States. While many factors contribute to what makes a city civicly enaged or not, [a report published by The Miami Foundation](http://ourmiami.org/stories/civic-participation/) pointed key things. Of interest: a high rate of residents (67.1%) born outside the state or abroad: "when people are new to a community, they may not know how to be civicly-engaged or they might not feel connected to the community to participate."
 
 
+### Resources
+
+* [Miami-Dade County GIS Open Data](http://gis.mdc.opendata.arcgis.com/)
+* http://www.miamidade.gov/economy/reports.asp
+* http://www.miamidda.com/pdf/2014-downtown-miami-population.pdf
+* From Mike Sarasti: "[[This short movie is](http://blogs.miaminewtimes.com/cultist/2014/11/right_to_wynwood_shows_some_truth_about_miamis_favorite_art_district_watch_it_here.php)] Relevant to our Wynwood visit and discussions about gentrification and under-served communities. Worth all 21 minutes of your day."
+
 ### Allies
 
 
