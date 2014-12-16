@@ -37,6 +37,12 @@ fellows:
 
 "Miami-Dade County [is looking] to improve constituent interactions with a focus on economic development and regulatory outcomes, enriching feedback loops and improving access to services. In the process of doing so, they want to make key data sets more open accessible to internal partners and the public."
 
+### Miami-Dade County
+
+Miami-Dade County is [comprised of 34 municipalities](http://www.miamidade.gov/info/library/at-a-glance.pdf): Aventura, Bal Harbour, Bay Harbor Islands, Biscayne Park, Coral Gables, Cutler Bay, Doral, El Portal, Florida City, Golden Beach, Hialeah, Hialeah Gardens, Homestead, Indian Creek, Key Biscayne, Medley, Miami, Miami Beach, Miami Gardens, Miami Lakes, Miami Shores, Miami Springs, North Bay Village, North Miami, North Miami Beach, Opa-locka, Palmetto Bay, Pinecrest, South Miami, Sunny Isles Beach, Surfside, Sweetwater, Virginia Gardens and West Miami. The City of Miami is the largest municipality, followed by Hialeah, Miami Gardens, Miami Beach, North Miami and Coral Gables. Each municipality has its own government and provides city services such as police and zoning protection.
+
+The unincorporated areas of Miami-Dade County do not fall within the jurisdiction of a municipality. ([See the Muncipal Boundary dataset](http://gis.mdc.opendata.arcgis.com/datasets/4e13f5bcf55d401b85ab85b90495ba50_0?geometry=-81.218%2C25.382%2C-79.241%2C26.039) on Miami-Dade County's GIS website.) With a population exceeding one million residents, the unincorporated area, if declared a city, would form the largest city in Florida and one of the largest in the nation.
+
 * _Weather, Demographics, Urbanicity_
   * Weather: if you hate snow, congratulations! [Miami has two seasons](http://en.wikipedia.org/wiki/Miami#Climate): wet (May to November) and dry (November to May). When it's dry, expect a whole lot of pleasant shorts weather and people escaping New England and Chicago from freezing temperatures. When it's wet season, expect to hide in air-conditioned cars and get knocked over by a wall of humidity. As a bonus, wipe the condensation off your glasses every thirty minutes!
   * Urbanicity: Miami and its surrounding county is not dense compared to the big cities. Expect to drive most areas, although there are high density and walkability in particular areas: areas of Miami Beach (including South Beach and North Beach), Brickell, Coconut Grove and parts of Downtown Miami.
